@@ -25,4 +25,5 @@ Some attention to the Classical-to-quantum and Quantum-to-classical interfaces (
 and [testing](https://link.springer.com/article/10.1007/s11128-016-1457-y) with it the reliability of the quantum representation methods.
 
 Our suggestion on classification
-![](classification.PNG =250x250)
+
+<img src="https://github.com/UralmashFox/QPI/blob/main/QIP/classification.PNG" width="300" height="300" />
