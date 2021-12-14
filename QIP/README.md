@@ -24,6 +24,20 @@ Implementations also include some of the image processing procedures which are d
 Some attention to the Classical-to-quantum and Quantum-to-classical interfaces ([C2QI and Q2CI](https://link.springer.com/article/10.1007/s11128-014-0881-0))
 and [testing](https://link.springer.com/article/10.1007/s11128-016-1457-y) with it the reliability of the quantum representation methods.
 
-Our suggestion on classification
+# Classification
 
-<img src="https://github.com/UralmashFox/QPI/blob/main/QIP/classification.PNG" width="300" height="300" />
+<img src="https://github.com/UralmashFox/QPI/blob/main/QIP/classification.PNG" width="350" height="350" />
+
+# Metrics
+- number of primitives (or big *O* notation);
+- number of utilized qubits;
+- circuit depth - read [more](https://quantumcomputing.stackexchange.com/questions/14431/whats-meant-by-the-depth-of-a-quantum-circuit);
+- Quantum Volume - read [more](https://qiskit.org/textbook/ch-quantum-hardware/measuring-quantum-volume.html#:~:text=Quantum%20Volume%20(QV)%20is%20a,that%20the%20computer%20successfully%20implements).
+
+# Authors
+Marina Lisnichenko - [m.lisnichenko@innopolis.university](m.lisnichenko@innopolis.university);
+
+Stanislav Protasov - [s.protasov@innopolis.ru](s.protasov@innopolis.ru).
+
+# Related publication
+*One day paper link will be here*
