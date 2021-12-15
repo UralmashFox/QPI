@@ -13,7 +13,7 @@ and QSNC [[8](https://link.springer.com/article/10.1007/s11128-012-0521-5)];
 - normal arbitrary quantum superposition state - NAQSS [[10](https://link.springer.com/article/10.1007/s11128-013-0705-7)];
 - <ins>generalized quantum image representation - GQIR</ins> [[11](https://link.springer.com/article/10.1007/s11128-015-1099-5)];
 - quantum representation of multi wavelength images - QRMW [[12](https://journals.tubitak.gov.tr/elektrik/issues/elk-18-26-2/elk-26-2-12-1705-396.pdf)];
-- </ins>quantum image representation based on bitplanes - BRQI</ins> [[13](https://ieeexplore.ieee.org/iel7/6287639/6514899/08470069.pdf)];
+- <ins>quantum image representation based on bitplanes - BRQI</ins> [[13](https://ieeexplore.ieee.org/iel7/6287639/6514899/08470069.pdf)];
 - order-encoded quantum image model - OQIM [[14](https://link.springer.com/article/10.1007/s11128-019-2463-7)];
 - quantum representation of indexed images and its applications - QIIR [[15](https://link.springer.com/article/10.1007/s10773-019-04331-0)];
 - fourier transform qubit representation FTQR [[16](https://link.springer.com/article/10.1007/s11128-020-02643-3)];
