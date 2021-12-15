@@ -26,7 +26,7 @@ and [testing](https://link.springer.com/article/10.1007/s11128-016-1457-y) with 
 
 # Classification
 
-<img src="https://github.com/UralmashFox/QPI/blob/main/QIP/classification.PNG" width="350" height="350" />
+<img src="https://github.com/UralmashFox/QPI/blob/main/QIP/images/classification.PNG" width="350" height="350" />
 
 # Metrics
 - number of primitives (or big *O* notation);
@@ -34,6 +34,9 @@ and [testing](https://link.springer.com/article/10.1007/s11128-016-1457-y) with 
 - circuit depth - read [more](https://quantumcomputing.stackexchange.com/questions/14431/whats-meant-by-the-depth-of-a-quantum-circuit);
 - Quantum Volume - read [more](https://qiskit.org/textbook/ch-quantum-hardware/measuring-quantum-volume.html#:~:text=Quantum%20Volume%20(QV)%20is%20a,that%20the%20computer%20successfully%20implements).
 
+<img src="https://github.com/UralmashFox/QPI/blob/main/QIP/images/depth.png" width="300" height="300" />
+
+<img src="https://github.com/UralmashFox/QPI/blob/main/QIP/images/qub_num.png" width="300" height="300" />
 # Authors
 Marina Lisnichenko - [m.lisnichenko@innopolis.university](m.lisnichenko@innopolis.university);
 
