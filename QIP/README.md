@@ -36,9 +36,9 @@ and [testing](https://link.springer.com/article/10.1007/s11128-016-1457-y) with 
 
 metric results of the gray-scaled 2x2 image encoding:
 
-| Depth         | Utilized qubits # |
-| ------------- | ------------- |
-| ![](https://github.com/UralmashFox/QPI/blob/main/QIP/images/depth.png)  | ![](https://github.com/UralmashFox/QPI/blob/main/QIP/images/qub_num.png)  |
+| Depth         | Utilized qubits # | Quantum Volume |
+| ------------- | ------------- | ------------- |
+| ![](https://github.com/UralmashFox/QPI/blob/main/QIP/images/depth.png)  | ![](https://github.com/UralmashFox/QPI/blob/main/QIP/images/qub_num.png)  | ![](https://github.com/UralmashFox/QPI/blob/main/QIP/images/q_vol.png)  |
 
 # Authors
 Marina Lisnichenko - [m.lisnichenko@innopolis.university](m.lisnichenko@innopolis.university);
