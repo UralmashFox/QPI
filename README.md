@@ -26,7 +26,7 @@ and [testing](https://link.springer.com/article/10.1007/s11128-016-1457-y) with 
 
 # Classification
 
-<img src="https://github.com/UralmashFox/QPI/blob/main/images/classification.PNG" width="350" height="350" />
+<img src="https://github.com/UralmashFox/QPI/blob/main/images/classification.PNG" width="500" height="150" />
 
 # Metrics
 - number of primitives (or big *O* notation);
