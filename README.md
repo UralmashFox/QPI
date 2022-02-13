@@ -34,7 +34,7 @@ and [testing](https://link.springer.com/article/10.1007/s11128-016-1457-y) with 
 - circuit depth - read [more](https://quantumcomputing.stackexchange.com/questions/14431/whats-meant-by-the-depth-of-a-quantum-circuit);
 - Quantum Volume - read [more](https://qiskit.org/textbook/ch-quantum-hardware/measuring-quantum-volume.html#:~:text=Quantum%20Volume%20(QV)%20is%20a,that%20the%20computer%20successfully%20implements).
 
-metric results of the gray-scaled 2x2 image encoding:
+metric results of the gray-scaled images encoding:
 
 | Depth         | Utilized qubits # | Quantum Volume |
 | ------------- | ------------- | ------------- |
