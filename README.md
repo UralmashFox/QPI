@@ -26,7 +26,7 @@ and [testing](https://link.springer.com/article/10.1007/s11128-016-1457-y) with 
 
 # Classification
 
-<img src="https://github.com/UralmashFox/QPI/blob/main/QIP/images/classification.PNG" width="350" height="350" />
+<img src="https://github.com/UralmashFox/QPI/blob/main/images/classification.PNG" width="350" height="350" />
 
 # Metrics
 - number of primitives (or big *O* notation);
@@ -38,7 +38,7 @@ metric results of the gray-scaled 2x2 image encoding:
 
 | Depth         | Utilized qubits # | Quantum Volume |
 | ------------- | ------------- | ------------- |
-| ![](https://github.com/UralmashFox/QPI/blob/main/QIP/images/depth.png)  | ![](https://github.com/UralmashFox/QPI/blob/main/QIP/images/qub_num.png)  | ![](https://github.com/UralmashFox/QPI/blob/main/QIP/images/q_vol.PNG)  |
+| ![](https://github.com/UralmashFox/QPI/blob/main/images/depth.png)  | ![](https://github.com/UralmashFox/QPI/blob/main/images/q_vol.PNG)  | ![](https://github.com/UralmashFox/QPI/blob/main/images/qub_num.PNG)  |
 
 # Authors
 Marina Lisnichenko - [m.lisnichenko@innopolis.university](m.lisnichenko@innopolis.university);
