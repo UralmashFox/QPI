@@ -1,0 +1,7 @@
+.idea/
+a.ipynb
+../.ipynb_checkpoints/
+.ipynb_checkpoints/
+Encoding/.ipynb_checkpoints/
+Encoding/__pycache__/
+__pycache__/
