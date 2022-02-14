@@ -38,7 +38,7 @@ metric results of the gray-scaled images encoding:
 
 | Depth         | Utilized qubits # | Quantum Volume |
 | ------------- | ------------- | ------------- |
-| ![](https://github.com/UralmashFox/QPI/blob/main/images/depth.png)  | ![](https://github.com/UralmashFox/QPI/blob/main/images/q_vol.PNG)  | ![](https://github.com/UralmashFox/QPI/blob/main/images/qub_num.PNG)  |
+| ![](https://github.com/UralmashFox/QPI/blob/main/images/depth.png)  | ![](https://github.com/UralmashFox/QPI/blob/main/images/qub_num.PNG)  | ![](https://github.com/UralmashFox/QPI/blob/main/images/q_vol.PNG)  |
 
 # Authors
 Marina Lisnichenko - [m.lisnichenko@innopolis.university](m.lisnichenko@innopolis.university);
